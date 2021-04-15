@@ -61,7 +61,7 @@ export default {
   },
   methods:{
     getData(){
-      this.$http.get('http://mock.hunger-valley.com/cnode/api/v1/topics',{params:{page:this.postpage,limit:20}})
+      this.$http.get('https://cnodejs.org/api/v1/topics',{params:{page:this.postpage,limit:20}})
         .then(res=>{
           this.isLoading=false;       //加载成功取出动画
           this.posts=res.data.data;
