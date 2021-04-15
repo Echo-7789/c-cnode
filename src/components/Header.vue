@@ -6,7 +6,7 @@
     <ul>
       <li><a href="#">首页</a></li>
       <li><a href="https://cnodejs.org/getstart">新手入门</a></li>
-      <li><a href="https://cnodeja.org/api">API</a></li>
+      <li><a href="https://cnodejs.org/api">API</a></li>
       <li><a href="https://cnodejs.org/signup">注册</a></li>
       <li><a href="https://cnodejs.org/signin">登录</a></li>
     </ul>
